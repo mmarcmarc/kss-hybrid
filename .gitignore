@@ -1,0 +1,5 @@
+# ignore generated output
+
+/example/**/*.css
+/vendor
+/node-modules
